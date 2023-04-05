@@ -10,7 +10,7 @@ Glatic games is a project made by Yusuf who is currently a Skoolv2 Devolpher As 
 We will be updating this website everyday, We will also make new links everytime as well
 Join our discord, info in our website!
 
-New deployment
+How to Deploy Your self ( do this if all Glatic Links are blocked )
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •First step is to press The fork button
 
