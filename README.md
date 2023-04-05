@@ -35,7 +35,8 @@ And incase if you cant read and your a freakin kindergardener and have 1 brain c
 <img class="w-96" src="https://cdn.glitch.global/be163090-7063-4bdf-a18a-51662dd5380d/Screenshot%202023-04-04%20195835.png?v=1680652812384" alt="Game World"/>
 •Last step is to go to seetings
 settings is above the coding places
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<button>Glitch.me</button><a href="https://glitch.com/edit/#!/remix/aware-rambunctious-honesty">
+Glitch.me:| https://glitch.com/edit/#!/remix/aware-rambunctious-honesty
 
 Making more ways to deploy ( such as replit,  etc )...
