@@ -36,6 +36,7 @@ And incase if you cant read and your a freakin kindergardener and have 1 brain c
 •Last step is to go to seetings
 settings is above the coding places
 
+  <a href="https://glitch.com/edit/#!/remix/aware-rambunctious-honesty"
+  ><button>Glitch.me</button>
 
-
-Making more ways to deploy ( such as replit, glitch, etc )...
+Making more ways to deploy ( such as replit,  etc )...
