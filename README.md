@@ -4,17 +4,17 @@ Unblocked games, apps, proxys, for school
 <img class="w-96" src="https://cdn.glitch.global/e15741ca-f3f8-4263-af96-21cfc1426961/Screenshot_2023-03-24_12.19.50_PM-removebg-preview.png?v=1679756558541" alt="Game World"/>
 
 Glatic games is a project made by Yusuf who is currently a Skoolv2 Devolpher As well| Discord : Ez#7274
-
+<br>
 * **Used my students and made by students** *
-
-We will be updating this website everyday, We will also make new links everytime as well
+<br>
+We will be updating this website everyday, We will also make new links everytime as well <br>
 Join our discord, info in our website!
 
 # Links
-https://mathcaculator.site/
+https://mathcaculator.site/ <br>
 https://glatic.games
-More Coming Out Soon!!!......
-How to Deploy Your self ( do this if all Glatic Links are blocked )
+<br<More Coming Out Soon!!!......
+<br>How to Deploy Your self ( do this if all Glatic Links are blocked )
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •First step is to press The fork button
 
