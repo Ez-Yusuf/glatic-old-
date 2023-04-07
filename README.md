@@ -12,7 +12,9 @@ Join our discord, info in our website!
 
 # Links
 https://mathcaculator.site/ <br>
-https://glatic.games
+https://glatic.games <br>
+https://the-glatics.github.io/glaticgames/
+
 <br>More Coming Out Soon!!!......
 <br/> 
 How to Deploy Your self ( do this if all Glatic Links are blocked )
