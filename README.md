@@ -13,8 +13,9 @@ Join our discord, info in our website!
 # Links
 https://mathcaculator.site/ <br>
 https://glatic.games
-<br<More Coming Out Soon!!!......
-<br>How to Deploy Your self ( do this if all Glatic Links are blocked )
+<br>More Coming Out Soon!!!......
+<br/> 
+How to Deploy Your self ( do this if all Glatic Links are blocked )
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 •First step is to press The fork button
 
