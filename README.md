@@ -13,7 +13,8 @@ Join our discord, info in our website!
 # Links
 https://mathcaculator.site/ <br>
 https://glatic.games <br>
-https://the-glatics.github.io/glaticgames/
+https://the-glatics.github.io/glaticgames/ <br>
+https://glaticgames.netlify.app
 
 <br>More Coming Out Soon!!!......
 <br/> 
