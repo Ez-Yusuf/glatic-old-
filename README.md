@@ -1,1 +1,11 @@
-![image](https://github.com/Patheticlol/skidlatic/assets/83834491/43c95cb5-4419-4ec6-9475-fd98e1e68e5b)
+# Glatic Games
+discord.gg/waitnodiscord
+#### A very skidded version of Skool
+![Commit activity](https://img.shields.io/github/commit-activity/w/CodingHTML-Yusef/glatic-old-?style=for-the-badge)
+
+## Links
+* https://mathcaculator.site
+* https://glatic.games
+* https://the-glatics.github.io/glaticgames/
+* https://glaticgames.netlify.app
+* https://flushed.cyou
